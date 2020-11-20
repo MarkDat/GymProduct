@@ -1,0 +1,1 @@
+Bật Sql, chạy file script.sql trước khi chạy phần mềm
